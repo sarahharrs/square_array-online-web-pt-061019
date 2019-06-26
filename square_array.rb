@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  array = [27,49,56]
+  array.each.do|number|
+  puts "sqrt#{number}""
 end
